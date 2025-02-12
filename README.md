@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -57,7 +59,7 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/cancelo13/cancelo13/output/snake.svg" alt="Snake animation" />
 
+<img src="https://raw.githubusercontent.com/cancelo13/cancelo13/output/snake.svg" alt="Snake animation" />
 
 ###
