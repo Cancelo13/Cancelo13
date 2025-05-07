@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
 <div align="left">
 
   <a href="https://x.com/Moh4medMagdy" target="_blank">
@@ -48,10 +47,9 @@
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
-
 </div>
 
-
+###
 <br clear="both">
 
 <picture>
@@ -60,5 +58,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cancelo13/cancelo13/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
